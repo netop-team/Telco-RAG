@@ -15,7 +15,7 @@ Telco-RAG is a specialized Retrieval-Augmented Generation (RAG) framework design
 To get started with Telco-RAG, you'll need to clone the repository and set up the environment:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/netop-team/telco-rag.git
 cd <repository-directory>
 ```
 Prerequisites
