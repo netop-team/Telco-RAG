@@ -1,9 +1,10 @@
 # Telco-RAG: Retrieval-Augmented Generation for Telecommunications
 
+Telco-RAG is a specialized Retrieval-Augmented Generation (RAG) framework designed to tackle the unique challenges presented by the telecommunications industry, particularly when working with complex and rapidly evolving 3GPP documents.
+
 ## References
 - Bornea, A.-L., Ayed, F., De Domenico, A., Piovesan, N., & Maatouk, A. (2024). Telco-RAG: Navigating the Challenges of Retrieval-Augmented Language Models for Telecommunications. *arXiv preprint arXiv:2404.15939*. [DOI](https://doi.org/10.48550/arXiv.2404.15939) | [Read the paper](https://arxiv.org/pdf/2404.15939.pdf)
 
-Telco-RAG is a specialized Retrieval-Augmented Generation (RAG) framework designed to tackle the unique challenges presented by the telecommunications industry, particularly when working with complex and rapidly evolving 3GPP documents.
 
 ## Features
 
