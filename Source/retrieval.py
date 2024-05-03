@@ -2,7 +2,7 @@ import numpy as np
 from openai import OpenAI
 import os
 import traceback
-api_key = "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"
+api_key = "your-api-key"
 os.environ["OPENAI_API_KEY"] = api_key
 
 
