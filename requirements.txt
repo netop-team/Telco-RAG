@@ -3,7 +3,6 @@ doc2docx==0.2.4
 docx==0.2.4
 faiss_cpu==1.8.0
 fastapi==0.110.2
-GitPython==3.1.37
 GitPython==3.1.43
 numpy==1.26.4
 openai==1.23.6
